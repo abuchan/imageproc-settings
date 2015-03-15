@@ -7,13 +7,13 @@
 #ifndef __SETTINGS_H
 #define __SETTINGS_H
 
-#define IDENT_STR "BIOMIMETICS-ROACH;AMS-ENC;"
+#define IDENT_STR "ABUCHAN-ROACH;AMS-ENC;"
 
 /////// Radio settings ///////
 /////// Radio settings ///////
-#define RADIO_CHANNEL       0x0F
-#define RADIO_PAN_ID        0x2000
-#define RADIO_SRC_ADDR      0x0001
+#define RADIO_CHANNEL       0x0D
+#define RADIO_PAN_ID        0x2070
+#define RADIO_SRC_ADDR      0x2072
 
 
 #define RADIO_TXPQ_MAX_SIZE   10
